@@ -1,4 +1,4 @@
-# Plusivo-Wireless-ESP8266
+# nodemcu-01
 
 ## Översikt 
 Nedan kommer jag att beskriva hur man kan testa att programmera utvecklingskortet **NodeMCU** i programmet **Arduino IDE**. I den här kursen så kommer vi att använda oss av **NodeMCU** och **Arduino IDE** för att bygga sensorer och samla in data som vi sedan kan visualisera, för kunna bygga kunskap utifrån den insamlade datan. 
